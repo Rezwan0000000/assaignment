@@ -1,0 +1,109 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    position: flex;
+}
+
+h1{
+    font-size: 35px;
+
+}
+h3{
+    color: rgb(212, 0, 255);
+}
+h2{
+    font-size: 35px;
+}
+.colour{
+    color: red;
+}
+.flexible-container{
+    display: flex;
+    margin: 80px;
+}
+.hw{
+    width: 80%;
+    padding-left: 2%;
+}
+
+.hw img{
+    width: 80%;
+}
+.shadow{
+    box-shadow:-0.3em 0em rgb(32, 230, 170);
+}
+.link{
+    text-decoration: none;
+}
+.link-btn{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(purple,gray);
+    border-radius: 8px;
+    color: white;
+    font-weight: 500;
+    
+}
+.con-head h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.container{
+    position: relative;
+    width: 1100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 35px;
+    margin-top: 10%;
+    text-align: center;
+}
+.card
+{
+    width: 25%;
+    margin-left: 3%;
+    background-color: purple;
+    box-shadow: 5px 10px 10px white;
+    border-radius: 10px;
+    position: flex;
+}
+.card-2
+{
+    width: 25%;
+    margin-left: 3%;
+    background-color: palegoldenrod;
+    box-shadow: 5px 10px 10px white;
+    border-radius: 10px;
+    position: flex;
+}
+.card-3
+{
+    width: 25%;
+    margin-left: 3%;
+    background-color: paleturquoise;
+    box-shadow: 5px 10px 10px white;
+    border-radius: 10px;
+    position: flex;
+}
+.card img{
+    width: 40%;
+}
+.card-2 img{
+    width: 40%;
+}
+.card-3 img{
+    width: 40%;
+}
+.skl{
+    color: Red;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: red;
+}
+.foot{
+    color: white;
+}
